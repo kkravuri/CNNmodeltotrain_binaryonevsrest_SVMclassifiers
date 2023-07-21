@@ -1,0 +1,1 @@
+# CNNmodeltotrain_binaryonevsrest_SVMclassifiers
